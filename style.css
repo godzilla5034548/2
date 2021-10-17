@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: coral
+}
+h1{
+    background-color: red;
+}
+div{
+    margin-top: 15px;
+    justify-content: center;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+.section-style{
+ margin-right: 25px;
+ margin-left: 25px;
+    
+}
+img{
+    width:500px;
+    height: 400px;
+}
